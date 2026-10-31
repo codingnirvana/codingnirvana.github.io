@@ -1,0 +1,9 @@
+{% assign limit = include.limit | default: 1000 %}
+<ul class="post-list">
+  {% for post in include.posts limit: limit %}
+  <li>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>

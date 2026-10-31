@@ -1,0 +1,55 @@
+title: Rajesh Muppalla
+description: Work, writing and hobbies. Board games, photography, badminton, quizzing and AI.
+url: "https://www.codingnirvana.in"
+baseurl: ""
+author: Rajesh Muppalla
+lang: en
+
+permalink: /:year/:title/
+timezone: Asia/Kolkata
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Topics shown in the nav and on the home page.
+# Tag a post with `topic: <key>` to list it under that topic.
+topics:
+  - key: ai
+    name: Thoughts on AI
+    url: /ai/
+  - key: boardgames
+    name: Board Games
+    url: /boardgames/
+  - key: photography
+    name: Photography
+    url: /photos/
+  - key: badminton
+    name: Badminton
+    url: /badminton/
+  - key: quizzing
+    name: Quizzing
+    url: /quizzing/
+  - key: indix
+    name: Indix Archive
+    url: /indix/
+
+social:
+  github: codingnirvana
+  linkedin: codingnirvana
+  twitter: codingnirvana
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "_posts/indix", type: posts }
+    values: { topic: indix }
+  - scope: { path: "", type: pages }
+    values: { layout: page }
+
+exclude: [README.md, Gemfile, Gemfile.lock, vendor, .playwright-mcp]

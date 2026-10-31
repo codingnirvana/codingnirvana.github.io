@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% assign topic = site.topics | where: "key", page.topic | first %}
+<article>
+  <h1>{{ page.title }}</h1>
+  <p class="meta">
+    {{ page.date | date: "%-d %B %Y" }}
+    {% if topic %} · <a href="{{ topic.url | relative_url }}">{{ topic.name }}</a>{% endif %}
+  </p>
+  {% if page.original_url %}
+  <p class="note">First published on the Indix engineering blog. <a href="{{ page.original_url }}">Original copy</a>.</p>
+  {% endif %}
+  {{ content }}
+</article>

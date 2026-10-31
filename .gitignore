@@ -1,0 +1,8 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
+.bundle/
+Gemfile.lock
+.DS_Store
+.playwright-mcp/
