@@ -15,7 +15,7 @@ Things I have built:
 
 ## My collection
 
-{{ site.data.boardgames | size }} games. The live list is on [BoardGameGeek](https://boardgamegeek.com/collection/user/codingnirvana?own=1&subtype=boardgame).
+{{ site.data.boardgames | size }} games, synced weekly from [BoardGameGeek](https://boardgamegeek.com/collection/user/codingnirvana?own=1&subtype=boardgame).
 
 <ul class="game-list">
 {% assign games = site.data.boardgames | sort: "name" %}

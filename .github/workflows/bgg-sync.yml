@@ -1,0 +1,25 @@
+name: Sync board games from BGG
+
+on:
+  schedule:
+    - cron: "30 2 * * 1" # Mondays 08:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/bgg_sync.py codingnirvana
+        env:
+          BGG_API_TOKEN: ${{ secrets.BGG_API_TOKEN }}
+      - name: Commit if the collection changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Sync board game collection from BGG"
+          git push

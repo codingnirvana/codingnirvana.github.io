@@ -50,4 +50,10 @@ The photo gallery is a separate repo, [codingnirvana/photography](https://github
 
 ## Board game collection
 
-The list on `/boardgames/` comes from `_data/boardgames.yml`. It is a copy of the owned games in the BoardGameGeek collection of `codingnirvana`. To add a game, add an entry with its `name`, `bgg_id` (the number in the game's BGG URL) and `year`. The BGG API needs a registered token, so the site does not sync on its own.
+The list on `/boardgames/` comes from `_data/boardgames.yml`. A GitHub Action (`.github/workflows/bgg-sync.yml`) rewrites that file every Monday from the owned games in the BoardGameGeek collection of `codingnirvana`, and commits it if anything changed. To sync now, open the **Actions** tab, pick **Sync board games from BGG**, and click **Run workflow**.
+
+The Action reads the BGG token from the repo secret `BGG_API_TOKEN`. To run the sync locally:
+
+```sh
+BGG_API_TOKEN=... python3 scripts/bgg_sync.py
+```

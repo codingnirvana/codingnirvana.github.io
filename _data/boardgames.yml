@@ -1,6 +1,9 @@
 # Owned board games, from https://boardgamegeek.com/collection/user/codingnirvana?own=1&subtype=boardgame
-# year: BGG publication year. Traditional games have no year.
+# Written by scripts/bgg_sync.py. Traditional games have no year.
 
+- name: "A Fake Artist Goes to New York"
+  bgg_id: 135779
+  year: 2011
 - name: "Anomia"
   bgg_id: 67877
   year: 2010
@@ -27,9 +30,6 @@
 - name: "Bomb Busters"
   bgg_id: 413246
   year: 2024
-- name: "The Chameleon"
-  bgg_id: 227072
-  year: 2017
 - name: "Clue"
   bgg_id: 374342
   year: 2019
@@ -42,12 +42,6 @@
 - name: "Coup"
   bgg_id: 131357
   year: 2012
-- name: "The Crew: Mission Deep Sea"
-  bgg_id: 324856
-  year: 2021
-- name: "The Crew: The Quest for Planet Nine"
-  bgg_id: 284083
-  year: 2019
 - name: "Decrypto"
   bgg_id: 225694
   year: 2018
@@ -57,9 +51,6 @@
 - name: "Dixit"
   bgg_id: 39856
   year: 2008
-- name: "A Fake Artist Goes to New York"
-  bgg_id: 135779
-  year: 2011
 - name: "Flip 7"
   bgg_id: 420087
   year: 2024
@@ -119,9 +110,6 @@
 - name: "Qwirkle"
   bgg_id: 25669
   year: 2006
-- name: "The Resistance: Avalon"
-  bgg_id: 128882
-  year: 2012
 - name: "Rhino Hero"
   bgg_id: 91514
   year: 2011
@@ -167,6 +155,18 @@
 - name: "Taco Cat Goat Cheese Pizza"
   bgg_id: 253664
   year: 2018
+- name: "The Chameleon"
+  bgg_id: 227072
+  year: 2017
+- name: "The Crew: Mission Deep Sea"
+  bgg_id: 324856
+  year: 2021
+- name: "The Crew: The Quest for Planet Nine"
+  bgg_id: 284083
+  year: 2019
+- name: "The Resistance: Avalon"
+  bgg_id: 128882
+  year: 2012
 - name: "Ticket to Ride"
   bgg_id: 9209
   year: 2004
