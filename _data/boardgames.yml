@@ -1,0 +1,184 @@
+# Owned board games, from https://boardgamegeek.com/collection/user/codingnirvana?own=1&subtype=boardgame
+# year: BGG publication year. Traditional games have no year.
+
+- name: "Anomia"
+  bgg_id: 67877
+  year: 2010
+- name: "Archaeology: The New Expedition"
+  bgg_id: 191300
+  year: 2016
+- name: "Azul"
+  bgg_id: 230802
+  year: 2017
+- name: "Bagh Chal"
+  bgg_id: 315
+- name: "Bananagrams"
+  bgg_id: 27225
+  year: 2006
+- name: "Bird Call"
+  bgg_id: 435773
+  year: 2023
+- name: "Blink"
+  bgg_id: 1197
+  year: 1995
+- name: "Blokus"
+  bgg_id: 2453
+  year: 2000
+- name: "Bomb Busters"
+  bgg_id: 413246
+  year: 2024
+- name: "The Chameleon"
+  bgg_id: 227072
+  year: 2017
+- name: "Clue"
+  bgg_id: 374342
+  year: 2019
+- name: "Clue: Harry Potter Edition"
+  bgg_id: 38026
+  year: 2008
+- name: "Codenames"
+  bgg_id: 178900
+  year: 2015
+- name: "Coup"
+  bgg_id: 131357
+  year: 2012
+- name: "The Crew: Mission Deep Sea"
+  bgg_id: 324856
+  year: 2021
+- name: "The Crew: The Quest for Planet Nine"
+  bgg_id: 284083
+  year: 2019
+- name: "Decrypto"
+  bgg_id: 225694
+  year: 2018
+- name: "Deep Sea Adventure"
+  bgg_id: 169654
+  year: 2014
+- name: "Dixit"
+  bgg_id: 39856
+  year: 2008
+- name: "A Fake Artist Goes to New York"
+  bgg_id: 135779
+  year: 2011
+- name: "Flip 7"
+  bgg_id: 420087
+  year: 2024
+- name: "Got Five!"
+  bgg_id: 453526
+  year: 2026
+- name: "Hanabi"
+  bgg_id: 98778
+  year: 2010
+- name: "Harmonies"
+  bgg_id: 414317
+  year: 2024
+- name: "Herd Mentality"
+  bgg_id: 311322
+  year: 2020
+- name: "Hues and Cues"
+  bgg_id: 302520
+  year: 2020
+- name: "Insider"
+  bgg_id: 206051
+  year: 2016
+- name: "Jaipur"
+  bgg_id: 54043
+  year: 2009
+- name: "Just One"
+  bgg_id: 254640
+  year: 2018
+- name: "Love Letter"
+  bgg_id: 277085
+  year: 2019
+- name: "Masala Lab"
+  bgg_id: 400573
+  year: 2024
+- name: "Metro X"
+  bgg_id: 248861
+  year: 2018
+- name: "Monopoly Deal Pocket"
+  bgg_id: 164840
+  year: 2014
+- name: "Monopoly: The Portable Property Trading Game"
+  bgg_id: 36611
+  year: 1994
+- name: "Mysterium"
+  bgg_id: 181304
+  year: 2015
+- name: "Nine Men's Morris"
+  bgg_id: 3886
+- name: "No Thanks!"
+  bgg_id: 12942
+  year: 2004
+- name: "Pandemic"
+  bgg_id: 30549
+  year: 2008
+- name: "Pictionary"
+  bgg_id: 2281
+  year: 1985
+- name: "Qwirkle"
+  bgg_id: 25669
+  year: 2006
+- name: "The Resistance: Avalon"
+  bgg_id: 128882
+  year: 2012
+- name: "Rhino Hero"
+  bgg_id: 91514
+  year: 2011
+- name: "Sagrada"
+  bgg_id: 199561
+  year: 2017
+- name: "Scrabble Junior"
+  bgg_id: 2318
+  year: 1958
+- name: "Sequence for Kids"
+  bgg_id: 6381
+  year: 2001
+- name: "SET"
+  bgg_id: 1198
+  year: 1988
+- name: "Skip-Bo"
+  bgg_id: 1269
+  year: 1967
+- name: "Skull"
+  bgg_id: 92415
+  year: 2011
+- name: "Slamwich"
+  bgg_id: 3804
+  year: 1994
+- name: "Sleeping Queens"
+  bgg_id: 17053
+  year: 2005
+- name: "So Clover!"
+  bgg_id: 329839
+  year: 2021
+- name: "Splendor"
+  bgg_id: 148228
+  year: 2014
+- name: "Spot it!"
+  bgg_id: 63268
+  year: 2009
+- name: "Startups"
+  bgg_id: 223770
+  year: 2017
+- name: "Taboo"
+  bgg_id: 1111
+  year: 1989
+- name: "Taco Cat Goat Cheese Pizza"
+  bgg_id: 253664
+  year: 2018
+- name: "Ticket to Ride"
+  bgg_id: 9209
+  year: 2004
+- name: "Trio"
+  bgg_id: 352515
+  year: 2021
+- name: "UNO"
+  bgg_id: 2223
+  year: 1971
+- name: "Wavelength"
+  bgg_id: 262543
+  year: 2019
+- name: "Word on the Street"
+  bgg_id: 40990
+  year: 2009

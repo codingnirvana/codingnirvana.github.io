@@ -112,3 +112,7 @@ th, td { border: 1px solid var(--rule); padding: 0.4rem 0.6rem; text-align: left
 }
 .site-footer p { margin: 0.3rem 0; }
 .site-footer a { color: var(--muted); }
+
+.game-list { columns: 2 14rem; column-gap: 2rem; padding-left: 1.1rem; }
+.game-list li { break-inside: avoid; padding: 0.1rem 0; }
+.game-list .year { color: var(--muted); font-size: 0.8rem; font-family: system-ui, -apple-system, sans-serif; }

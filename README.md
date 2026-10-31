@@ -47,3 +47,7 @@ Then open http://localhost:4000. `--drafts` also shows the posts in `_drafts/`.
 ## Photography
 
 The photo gallery is a separate repo, [codingnirvana/photography](https://github.com/codingnirvana/photography). GitHub serves it at https://www.codingnirvana.in/photography/.
+
+## Board game collection
+
+The list on `/boardgames/` comes from `_data/boardgames.yml`. It is a copy of the owned games in the BoardGameGeek collection of `codingnirvana`. To add a game, add an entry with its `name`, `bgg_id` (the number in the game's BGG URL) and `year`. The BGG API needs a registered token, so the site does not sync on its own.
