@@ -23,3 +23,14 @@ Things I have built:
   <li><a href="https://boardgamegeek.com/boardgame/{{ g.bgg_id }}">{{ g.name }}</a>{% if g.year %} <span class="year">{{ g.year }}</span>{% endif %}</li>
 {% endfor %}
 </ul>
+
+## Games I have played
+
+{% assign played = site.data.plays %}{% assign total = 0 %}{% for g in played %}{% assign total = total | plus: g.plays %}{% endfor %}
+{{ total }} plays of {{ played | size }} games. Most come from plays my friends logged on BoardGameGeek and tagged me in. Synced weekly.
+
+<ul class="game-list">
+{% for g in played %}
+  <li><a href="https://boardgamegeek.com/boardgame/{{ g.bgg_id }}">{{ g.name }}</a> <span class="year">{{ g.plays }} {% if g.plays == 1 %}play{% else %}plays{% endif %}</span></li>
+{% endfor %}
+</ul>

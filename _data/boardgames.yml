@@ -51,6 +51,9 @@
 - name: "Dixit"
   bgg_id: 39856
   year: 2008
+- name: "Dobble"
+  bgg_id: 63268
+  year: 2009
 - name: "Flip 7"
   bgg_id: 420087
   year: 2024
@@ -116,6 +119,9 @@
 - name: "Sagrada"
   bgg_id: 199561
   year: 2017
+- name: "SCOUT"
+  bgg_id: 291453
+  year: 2019
 - name: "Scrabble Junior"
   bgg_id: 2318
   year: 1958
@@ -143,9 +149,9 @@
 - name: "Splendor"
   bgg_id: 148228
   year: 2014
-- name: "Spot it!"
-  bgg_id: 63268
-  year: 2009
+- name: "Splendor Duel"
+  bgg_id: 364073
+  year: 2022
 - name: "Startups"
   bgg_id: 223770
   year: 2017

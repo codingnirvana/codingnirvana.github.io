@@ -1,0 +1,247 @@
+# Board games codingnirvana has played, from BGG play logs by codingnirvana, kranti.
+# Written by scripts/bgg_sync.py.
+
+- name: "Got Five!"
+  bgg_id: 453526
+  plays: 4
+  last: 2026-07-20
+- name: "Incan Gold"
+  bgg_id: 15512
+  plays: 4
+  last: 2026-08-10
+- name: "ito"
+  bgg_id: 327778
+  plays: 4
+  last: 2026-04-19
+- name: "Oh My Pigeons!"
+  bgg_id: 413435
+  plays: 4
+  last: 2026-07-04
+- name: "Trio"
+  bgg_id: 352515
+  plays: 4
+  last: 2026-08-10
+- name: "Flip 7"
+  bgg_id: 420087
+  plays: 3
+  last: 2026-09-07
+- name: "Ghost Blitz"
+  bgg_id: 83195
+  plays: 3
+  last: 2026-06-13
+- name: "Just One"
+  bgg_id: 254640
+  plays: 3
+  last: 2026-06-13
+- name: "No Thanks!"
+  bgg_id: 12942
+  plays: 3
+  last: 2026-07-06
+- name: "Paku Paku"
+  bgg_id: 214491
+  plays: 3
+  last: 2026-04-18
+- name: "Avocado Smash!"
+  bgg_id: 261831
+  plays: 2
+  last: 2026-05-25
+- name: "Bird Call"
+  bgg_id: 435773
+  plays: 2
+  last: 2025-09-01
+- name: "Catchpair"
+  bgg_id: 440161
+  plays: 2
+  last: 2026-06-06
+- name: "Danger Danger"
+  bgg_id: 411403
+  plays: 2
+  last: 2025-08-25
+- name: "Dobble"
+  bgg_id: 63268
+  plays: 2
+  last: 2025-09-15
+- name: "Figment"
+  bgg_id: 439209
+  plays: 2
+  last: 2026-07-27
+- name: "Happy Salmon"
+  bgg_id: 194626
+  plays: 2
+  last: 2026-03-07
+- name: "Panda Royale"
+  bgg_id: 398996
+  plays: 2
+  last: 2026-09-12
+- name: "Sagrada"
+  bgg_id: 199561
+  plays: 2
+  last: 2026-07-11
+- name: "SCOUT"
+  bgg_id: 291453
+  plays: 2
+  last: 2026-07-04
+- name: "Skull"
+  bgg_id: 92415
+  plays: 2
+  last: 2025-10-13
+- name: "Wilmot's Warehouse"
+  bgg_id: 424975
+  plays: 2
+  last: 2026-05-25
+- name: "World Wonders"
+  bgg_id: 365258
+  plays: 2
+  last: 2026-03-02
+- name: "Art Robbery"
+  bgg_id: 341935
+  plays: 1
+  last: 2026-07-27
+- name: "Atlantis Rising (Second Edition)"
+  bgg_id: 248490
+  plays: 1
+  last: 2026-03-07
+- name: "Belratti"
+  bgg_id: 259374
+  plays: 1
+  last: 2026-09-14
+- name: "Between Two Cities Essential Edition"
+  bgg_id: 369635
+  plays: 1
+  last: 2026-04-18
+- name: "Blank Slate"
+  bgg_id: 254188
+  plays: 1
+  last: 2026-06-22
+- name: "Botswana"
+  bgg_id: 398
+  plays: 1
+  last: 2026-10-12
+- name: "Camel Up (Second Edition)"
+  bgg_id: 260605
+  plays: 1
+  last: 2026-09-07
+- name: "Cartographers"
+  bgg_id: 263918
+  plays: 1
+  last: 2026-09-12
+- name: "Cascadia"
+  bgg_id: 295947
+  plays: 1
+  last: 2026-08-08
+- name: "Caution Signs"
+  bgg_id: 407805
+  plays: 1
+  last: 2026-08-31
+- name: "Cockroach Poker"
+  bgg_id: 11971
+  plays: 1
+  last: 2026-05-11
+- name: "Decrypto"
+  bgg_id: 225694
+  plays: 1
+  last: 2026-06-08
+- name: "Dixit: Odyssey"
+  bgg_id: 92828
+  plays: 1
+  last: 2026-06-01
+- name: "Durian"
+  bgg_id: 307963
+  plays: 1
+  last: 2026-01-19
+- name: "Excalibur"
+  bgg_id: 434172
+  plays: 1
+  last: 2026-09-28
+- name: "Feed the Kraken"
+  bgg_id: 271601
+  plays: 1
+  last: 2026-06-06
+- name: "For Sale"
+  bgg_id: 172
+  plays: 1
+  last: 2026-07-11
+- name: "GoodCritters"
+  bgg_id: 255615
+  plays: 1
+  last: 2026-01-12
+- name: "Heat: Pedal to the Metal"
+  bgg_id: 366013
+  plays: 1
+  last: 2025-11-17
+- name: "Herd Mentality"
+  bgg_id: 311322
+  plays: 1
+  last: 2026-09-28
+- name: "Martian Dice"
+  bgg_id: 99875
+  plays: 1
+  last: 2026-09-21
+- name: "May Contain Butts"
+  bgg_id: 365470
+  plays: 1
+  last: 2026-06-15
+- name: "Mysterium"
+  bgg_id: 181304
+  plays: 1
+  last: 2025-08-25
+- name: "Perudo"
+  bgg_id: 45
+  plays: 1
+  last: 2026-10-12
+- name: "PitchCar"
+  bgg_id: 150
+  plays: 1
+  last: 2026-06-08
+- name: "Planet Unknown"
+  bgg_id: 258779
+  plays: 1
+  last: 2026-06-13
+- name: "Ra"
+  bgg_id: 12
+  plays: 1
+  last: 2026-05-09
+- name: "River Dragons"
+  bgg_id: 634
+  plays: 1
+  last: 2026-06-06
+- name: "Santa Cookie Elf Candy Snowman"
+  bgg_id: 315882
+  plays: 1
+  last: 2026-05-04
+- name: "Spots"
+  bgg_id: 372559
+  plays: 1
+  last: 2026-08-08
+- name: "Stack O' Cats"
+  bgg_id: 427942
+  plays: 1
+  last: 2026-09-14
+- name: "Take 5"
+  bgg_id: 406321
+  plays: 1
+  last: 2025-11-17
+- name: "Telestrations"
+  bgg_id: 46213
+  plays: 1
+  last: 2026-09-21
+- name: "That's Not a Hat"
+  bgg_id: 375651
+  plays: 1
+  last: 2025-09-01
+- name: "The Gang"
+  bgg_id: 411567
+  plays: 1
+  last: 2026-10-26
+- name: "Wavelength"
+  bgg_id: 262543
+  plays: 1
+  last: 2026-08-03
+- name: "Word on the Street"
+  bgg_id: 40990
+  plays: 1
+  last: 2026-01-29
+- name: "Yogi"
+  bgg_id: 224271
+  plays: 1
+  last: 2026-08-03
